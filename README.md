@@ -9,7 +9,7 @@ Butuh invite code biar ga whitelist
 Install with python
 
 ```bash
-  1. Download Python 3.10+
+  1. Download Python 3.10+ (sudo apt install python atau pkg install python di termux)
   2. Install Module (pip install requests colorama)
   3. Buka Bot Blum di PC (Telegram Web / Desktop)
   4. Ambil query_id 
