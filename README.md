@@ -15,7 +15,8 @@ Install with python
   4. Ambil query_id 
   5. Caranya > inspek elemen > terus ke application > storage (session storage) > pilih telegram.blum.codes
   6. Pilih __telegram_initparam > tgwebappdata ambil query_id=xxx (ambil semua) kecuali tgwebappnya
-  5. Paste di tgwebapp.txt
+  7. Paste di tgwebapp.txt
+  8. Run (masuk folder blum - ketik python blum.py)
 ```
 
 
